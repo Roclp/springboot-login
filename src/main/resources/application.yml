@@ -1,0 +1,11 @@
+#spring:
+#  datasource:
+#    url: jdbc:mysql://localhost:3306/springbootdata?serverTimezone=UTC
+#    username: root
+#    password: Lp200211
+#    driver-class-name: com.mysql.jdbc.Driver
+
+
+#mybatis:
+#    mapper-locations: classpath:mapper/*.xml
+#    type-aliases-package: com.example.domain
